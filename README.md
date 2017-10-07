@@ -1,2 +1,2 @@
 # CodeSamples
-Snippets of code
+Snippets of code from multiple projects, for reference purposes.
